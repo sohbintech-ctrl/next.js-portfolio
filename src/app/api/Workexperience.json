@@ -1,0 +1,21 @@
+[
+    {
+        "image":"upwork.png",
+        "title":"Freelancing",
+        "subtitle":"Adobe photoshop",
+        "Description":"I have done various photo retouching projects for different clients. You can view my work on my Upwork profile.",
+        "startyear":"July-2024",
+        "endyear":"Present",
+        "Icon":"ChevronDownIcon"
+
+    },
+     {
+        "image":"nextjs.png",
+        "title":"Not yet started",
+        "subtitle":"Full stack developer",
+        "Description":"I have not yet started working on full-stack development.",
+        "startyear":"learning",
+        "endyear":"now",
+        "Icon":"ChevronDownIcon"
+    }
+]

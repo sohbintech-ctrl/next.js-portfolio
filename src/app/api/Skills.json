@@ -1,0 +1,35 @@
+[
+    {
+        "skills":"Javascript"
+    },
+    {
+        "skills":"Reactjs"
+    },
+     {
+        "skills":"React query"
+     },
+       {
+        "skills":"React Redux/RTK"
+     },
+       {
+        "skills":"Next.js"
+     },
+      {
+        "skills":"Node.js"
+     },
+     {
+        "skills":"Express.js"
+     },
+    {
+        "skills":"Mysql"
+    },
+    {
+        "skills":"Basic.Prisma/Drizzle"
+    },
+    {
+        "skills":"Git/Github"
+    },
+    {
+       "skills":"ShadcnUI"
+    }
+]

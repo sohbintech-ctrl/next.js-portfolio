@@ -1,0 +1,24 @@
+[
+  {
+    "image":"texas.png",
+    "institution": "Texas College of Management and IT",
+    "degree": "Bachelor of Information Technology (BIT)",
+    "start_year": 2023,
+    "end_year": "not yet",
+    "link":"https://texascollege.edu.np/"
+  },
+  {
+    "image":"Rims.jpeg",
+    "institution": "Readers International Model School(+2)",
+    "degree": "+2 in Management",
+    "start_year": 2020,
+    "end_year": 2023
+  },
+  {
+    "image":"Rims.jpeg",
+    "institution": "Readers International Model School",
+    "degree": "SEE",
+    "start_year": 2015,
+    "end_year": 2016
+  }
+]
