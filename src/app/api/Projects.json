@@ -1,14 +1,50 @@
 [
-    {
-        "project":"coming soon..."
-    },
-    {
-        "project":"coming soon..."
-    },
-    {
-        "project":"coming soon..."
-    },
-    {
-        "project":"coming soon..."
-    }
+  {
+    "title": "Exclusive Store",
+    "description": "A full-stack e-commerce platform built with Next.js, Express.js, MySQL, and Drizzle ORM. Features include session-based authentication, product details, shopping cart, checkout, shipping address management, order history, and an admin dashboard for managing products and customer orders. The application is fully responsive and deployed to production.",
+   
+    "tech": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "MySQL",
+      "Drizzle ORM",
+      "Express Session",
+      "Multer",
+      "shdcn UI"
+    ],
+    "demoAdmin": {
+    "email": "sohbintech@gmail.com",
+    "password": "Sohbin@1245"
+  },
+    "github": "https://github.com/sohbintech-ctrl?tab=repositories",
+    "live": "https://exclusivestores.vercel.app/"
+  },
+  {
+    "title": "Todo App",
+    "description": "A responsive Todo application built with React that allows users to add, complete, edit, and delete tasks. This project helped me strengthen my understanding of React state management, component-based architecture, and CRUD operations.",
+ 
+    "tech": [
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "github": "https://github.com/sohbintech-ctrl/React-tode",
+    "live": "https://sohbintechtodoreact.netlify.app/"
+  },
+  {
+    "title": "Pokémon Explorer",
+    "description": "A React application that fetches Pokémon data from a public REST API and displays it in responsive cards. This project helped me learn API fetching, asynchronous JavaScript, state management, and rendering dynamic data.",
+    "tech": [
+      "React",
+      "JavaScript",
+      "REST API",
+      "CSS"
+    ],
+    "github": "https://github.com/sohbintech-ctrl/React-tode",
+    "live": "https://sohbintechpokemanreact.netlify.app/"
+  }
 ]
