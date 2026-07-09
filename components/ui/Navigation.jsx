@@ -114,7 +114,7 @@ export default function Navigation(){
            </li>
         </ul>
      </nav>
-     <Link href="Subash-Shrestha-CV.pdf" target="_blank">
+     <Link href="sohan.cv.pdf" target="_blank">
      <Button className="rounded-full w-35 p-4">Read Resume</Button>
      </Link>
      
